@@ -11,10 +11,10 @@ For each exercise you should create a new project with the name of the exercise 
 Create a simple tip calculator. You tip calculator must include:
 
 * A field for the user to enter their bill amount;
-* A field for the user to enter their tip amount (in %)
-* A button that when clicked, displays "Tip:" + the tip amount.
+* A field for the user to enter their desired tip percentage (in %, e.g. 10)
+* A button that when clicked, makes the final tip amount appear.
 * You must include index.html, style.css and index.js files.
-* Comments throughout every file explaining each part of your code.
+* Comments throughout every file.
 * Buttons should include hover effects, and fields should clearly "focus" when in use.
 * Clean and professional creative styling.
 
@@ -26,14 +26,14 @@ Create a player vs. computer version of Rock Paper Scissors. Your game must incl
 * The ability to declare a final winner once either player reaches 10 (ability to continue playing disabled etc.).
 * A short delay before showing the computers choice.
 * index.html, style.css and index.js files.
-* Comments throughout every file explaining each part of your code.
+* Comments throughout every file.
 * Clean and professional creative styling.
 
 ## Bonus Assessment Exercise
 
 ### Interactive HTML, CSS and Javascript resources application.
 
-Create an interactive HTML, CSS and Javascript learning resources application which can act as a digital resource for a user to refer back to when learning web development. The application will display information about a particular web development concept, an example code snippet and then a button to run example code which displays the result (think of codepen). The user should be able to add, delete and modify items, and the application should be creatively styled making use of custom fonts (copyright free) and a custom colour palette. Your application must include:
+Create an interactive HTML, CSS and Javascript learning resources application which can act as a digital resource for a user to refer back to when learning web development. The application will display information about a particular web development concept, an example code snippet and then a button to run example code (which displays the result - think of Codepen). The user should be able to add, delete and modify items, and the application should be creatively styled making use of custom fonts (copyright free) and a custom colour palette. Your application must include:
 
 * 10 HTML code and example items already entered.
 * 10 CSS code and example items already entered.
