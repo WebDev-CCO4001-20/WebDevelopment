@@ -39,19 +39,15 @@ Class demonstrations are taught using VS code. If you are using your own laptop 
 
 ## Repository Contents
 
-### Chapters
-
-These folders contain the chapters of the Web Development workbook. Each chapter introduces you to a variety of HTML, CSS and Javascript techniques. Each chapter is aligned with the content you will be taught in class, but will also require you to undertake regular independent research to understand the full breadth of the content.
-
 ### Chapter Exercises
 
-Each workbook chapter includes exercises that are designed to help put what you learn in theoretical lectures into practice. A majority of them are included in your "Set Exercises" assessment which contributes to 40% of your final module grade. You should aim to work through these exercises in order. Exercises with a tick mark included under the heading Assessment Exercises represent exercises that must be submitted as part of your Set Excersises assessment, as a bare minimum expectation. Bonus exercises are also included to give you the opportunity to gain higher marks.
+Each chapter includes exercises that are designed to help put what you learn in theoretical lectures into practice. These exercises form the entirity of your "Set Exercises" assessment which contributes to 40% of your final module grade. You should aim to work through these exercises in order. Exercises with a tick mark included under the heading Assessment Exercises represent exercises that must be submitted as part of your Set Excersises assessment, as a bare minimum expectation. Bonus exercises are also included to give you the opportunity to gain higher marks. Nearer to the submission date of your Set Exercises assessment, you will be given access to a subsequent set of chapters which will reflect the learning you will undertake to complete your final assessment (Canvas API etc.), these chapters will not form part of your Set Exercises assessment. 
 
 To complete the exercises:
 
-* First make sure you have cloned this repository to your local machine
-* Create a separate project for each exercise in the corresponding chapter's exercise folder
-* When happy with your solution commit and push your changes back to Github
+* First make sure you have cloned this repository to your local machine;
+* Create a separate project for each exercise in the corresponding chapter's exercise folder;
+* When happy with your solution commit and push your changes back to Github;
 
 ### Reading Lists
 
