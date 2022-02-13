@@ -2,17 +2,17 @@
 
 Exercises under the heading **Assessment Exercises** must be completed as part of the Set Exercises assessment. You will find additional optional exercises which can be completed to gain higher marks. 
 
-For each exercise you should create a new project with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
+For each exercise you should create a new project with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish; only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
 
 ## Assessment Exercises 
 
 ### Relative Paths :ballot_box_with_check:
 
-Consider the file strucure of the following project: 
+Consider the file structure of the following project: 
 
 ![image](https://github.com/nigelfryatt/webDevelopment-CCO4001-20/blob/main/Chapter-2-Links%20and%20navigation/Exercises/relativePaths.jpg?raw=true)
 
-You can see that within our root directory (relativePaths) we have an index.html file, two subdirectorys (files and img), a further two subdirectorys within img (banners and main), and a further two subdirectorys within files (cart and pages). 
+You can see that within our root directory (relativePaths) we have an index.html file, two subdirectories (files and img), a further two subdirectories within img (banners and main), and a further two subdirectories within files (cart and pages). 
 
 For each of the following write an anchor tag (using a relative URL) that would link from A to B. For each of the links use "relative URL" as the text value. Save links into a file called index.html.
 
@@ -33,6 +33,7 @@ Pick a television series, film or game and design a really simple one-page websi
 * One link styled as a button.
 
 ## Bonus Assessment Exercises:
+
 ### Replace Me Advanced 
 
 Copy the below index.html code into a new file. Replace all of the inline CSS with a new external CSS document.

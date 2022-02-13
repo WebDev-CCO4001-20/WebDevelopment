@@ -2,7 +2,7 @@
 
 Exercises under the heading **Assessment Exercises** must be completed as part of the Set Exercises assessment. You will find additional optional exercises which can be completed to gain higher marks.
 
-For each exercise you should create a new project with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
+For each exercise you should create a new project with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish; only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
 
 ## Assessment Exercises
 
@@ -10,11 +10,11 @@ For each exercise you should create a new project with the name of the exercise 
 
 Create a new index.html file and include the following:
 
-- All of the mandatory structural elements.
-- Six headings using all of the `<h>` tags.
-- A paragraph of text underneath your headings.
-- Make sure the code is indented and spaced properly.
-- Add comments explaining what each element does.
+* All of the mandatory elements necessary in a basic HTML document.
+* Six headings using all of the `<h>` tags.
+* A paragraph of text underneath your headings.
+* Make sure the code is indented and spaced properly.
+* Add comments explaining what each element does.
 
 ### Fix me :ballot_box_with_check:
 
@@ -22,10 +22,10 @@ Copy the below `index.html` and `syles.css` code into two seperate files in a ne
 
 Look through both files and fix all of the errors that you can find. Do the following:
 
-- Ensure that styles.css is appropriately linked in your index.html file
-- Fix Missings tags, incorrectly typed tags, spelling mistakes, missing brackets etc.
-- Make sure the code is indented and spaced properly.
-- Add comments explaining what each line of the code does.
+* Ensure that styles.css is appropriately linked in your index.html file
+* Fix Missings tags, incorrectly typed tags, spelling mistakes, missing brackets etc.
+* Make sure the code is indented and spaced properly.
+* Add comments explaining what each line of the code does.
 
 #### index.html:
 
@@ -206,10 +206,10 @@ Hint2: You should aim to achieve this using only four blocks of CSS in your styl
 
 Create a HTML & CSS quick-reference guide that covers all of the tags we've covered so far (and a few extras) with a description of how to use them and code examples.
 
-- Use an external stylesheet.
-- Be creative with your styling, but keep it professional.
-- Use the `<code>` and `<pre>` HTML tags to include code examples.
-- Include a minimum of 10 HTML tags.
-- Include a minimum of 8 CSS properties.
-- Include a variety of different headers.
-- Make sure the code is indented and spaced properly.
+* Use an external stylesheet.
+* Be creative with your styling, but keep it professional.
+* Use the `<code>` and `<pre>` HTML tags to include code examples.
+* Include a minimum of 10 HTML tags.
+* Include a minimum of 8 CSS properties.
+* Include a variety of different headers.
+* Make sure the code is indented and spaced properly.
