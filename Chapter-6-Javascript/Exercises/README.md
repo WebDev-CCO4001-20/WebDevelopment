@@ -35,10 +35,11 @@ Create a player vs. computer version of Rock Paper Scissors. Your game must incl
 
 Create an interactive HTML, CSS and Javascript learning resources application which can act as a digital resource for a user to refer back to when learning web development. The application will display information about a particular web development concept, an example code snippet and then a button to run example code (which displays the result - think of Codepen). The user should be able to add, delete and modify items, and the application should be creatively styled making use of custom fonts (copyright free) and a custom colour palette. Your application must include:
 
-* 10 HTML code and example items already entered.
-* 10 CSS code and example items already entered.
-* 10 Javascript code and example items already entered.
+* 10 HTML code items already entered.
+* 10 CSS code items already entered.
+* 10 Javascript code items already entered.
 * An attractive, multi-column UI which features a header, navigation, body and footer.
 * Full code commenting throughout.
 * Clean and professional creative styling.
 * The ability to enable "Dark Mode" (changes the application's theme to dark backgrounds and lighter text).
+* Your application does not need to store information between loads (no database etc. required). 
