@@ -22,8 +22,8 @@
 ## W3Schools
 
 - [HTML DOM Audio Object](https://www.w3schools.com/jsref/dom_obj_audio.asp)
-- [HTML <audio> Tag](https://www.w3schools.com/tags/tag_audio.asp)
-- [HTML <video> Tag](https://www.w3schools.com/tags/tag_video.asp)
+- [HTML audio Tag](https://www.w3schools.com/tags/tag_audio.asp)
+- [HTML video Tag](https://www.w3schools.com/tags/tag_video.asp)
 
 ## Chrome Developers
 
