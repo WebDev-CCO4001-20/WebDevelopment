@@ -22,7 +22,7 @@ In a new index.html file display three images (that you would be legally allowed
 
 Copy the below html and css files into a new directory. Edit style.css so that the four ```div``` elements in index.html look like this: 
 
-![image](https://github.com/nigelfryatt/webDevelopment-CCO4001-20/blob/main/Chapter-3-Images/images.jpg?raw=true)
+![image](../images.jpg)
 
 #### index.html:
 
