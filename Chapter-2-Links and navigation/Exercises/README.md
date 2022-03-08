@@ -10,7 +10,7 @@ For each exercise you should create a new project with the name of the exercise 
 
 Consider the file structure of the following project: 
 
-![image](https://github.com/nigelfryatt/webDevelopment-CCO4001-20/blob/main/Chapter-2-Links%20and%20navigation/Exercises/relativePaths.jpg?raw=true)
+![image](relativePaths.jpg)
 
 You can see that within our root directory (relativePaths) we have an index.html file, two subdirectories (files and img), a further two subdirectories within img (banners and main), and a further two subdirectories within files (cart and pages). 
 
