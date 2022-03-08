@@ -138,7 +138,7 @@ blockquote {
 
 Your working code should produce the following result:
 
-![image](https://github.com/nigelfryatt/webDevelopment-CCO4001-20/blob/main/Chapter-1-Introduction%20to%20HTML%20and%20CSS/FixMe_End_Result.png?raw=true)
+![image](../FixMe_End_Result.png)
 
 ### Replace Me :ballot_box_with_check:
 
