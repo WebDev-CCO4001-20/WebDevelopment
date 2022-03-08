@@ -28,7 +28,7 @@ A local comedy radio show needs you to develop an audio soundboard for them. The
 
 Use the below example as a reference:
 
-![image](https://github.com/WebDev-CCO4001-20/WebDevelopment/blob/main/Chapter-5-Embedded%20Content/Exercises/Audio%20Sampler/Soundboard.png?raw=true)
+![image](Audio%20Sampler/Soundboard.png)
 
 ## Bonus Assessment Exercise
 
@@ -44,4 +44,4 @@ The radio show loved the sampler you made for them before, but they'd like to gi
 
 Use the below example as a reference:
 
-![image](https://github.com/WebDev-CCO4001-20/WebDevelopment/blob/main/Chapter-5-Embedded%20Content/Exercises/Audio%20Sampler/Soundboard_Advanced.png?raw=true)
+![image](Audio%20Sampler/Soundboard.png)
