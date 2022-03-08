@@ -14,7 +14,7 @@ You've been given the job of producing a wireframe for the website example below
 - Ensure your work is neat, tidy and professional (so that it could be used by any developer to complete the work);
 - Submit your wireframe as an image/PDF embedded in a html document.
 
-![image](https://github.com/WebDev-CCO4001-20/WebDevelopment/blob/main/Chapter-4-Page%20Layout/Exercises/DigiFest.jpg?raw=true)
+![image](DigiFest.jpg)
 
 ### Structuring a webpage :ballot_box_with_check:
 
@@ -38,7 +38,7 @@ These tags might come in useful: `<header>` `<nav>` `<main>` `<section>` `<artic
 
 - Welcome text: Digi Fest is a celebration of digital and technology in the city of Cardiff. This year, we are celebrating ‘collaboration’, so come and find out about the latest collaborations that are happening in this historic and innovative city. They promise an educational and inspirational packed programme for all.
 
-![image](https://github.com/WebDev-CCO4001-20/WebDevelopment/blob/main/Chapter-4-Page%20Layout/Exercises/DigiFest.jpg?raw=true)
+![image](DigiFest.jpg)
 
 ## Bonus Assessment Exercise
 
