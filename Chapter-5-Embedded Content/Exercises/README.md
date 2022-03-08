@@ -44,4 +44,4 @@ The radio show loved the sampler you made for them before, but they'd like to gi
 
 Use the below example as a reference:
 
-![image](Audio%20Sampler/Soundboard.png)
+![image](Audio%20Sampler/Soundboard_Advanced.png)
